@@ -1,5 +1,5 @@
 # Sohir Uddin Naeem
-> Software Engineering Graduate · Dhaka, Bangladesh
+> Software Engineering Graduate · Dhaka, Bangladesh    
 Focused on building performant web applications, reliable backend systems, and clean user interfaces.
 Currently open to software engineering roles and open-source contributions.
 
