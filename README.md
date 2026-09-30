@@ -17,7 +17,7 @@
 ### Focused on building performant web applications, reliable backend systems, and clean user interfaces.
 Currently open to software engineering roles and open-source contributions.
 
-
+</br>
 ## Languages, Frameworks & Tools  
 
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,java,js,php,mysql,github,vscode,idea,windows,linux,ps,arduino,ubuntu&perline=10)](https://github.com/sohirnaeem)    
