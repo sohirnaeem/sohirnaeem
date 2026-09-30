@@ -18,12 +18,8 @@ Currently open to software engineering roles and open-source contributions.
 }
 ```
 
-</br>
-
 ## Languages, Frameworks & Tools  
-
 [![](https://skillicons.dev/icons?i=c,cpp,py,html,css,java,js,php,mysql,github,vscode,idea,windows,linux,ps,arduino,ubuntu&perline=10)](https://github.com/sohirnaeem)    
-<!-- gcp,figma,ts,react,nodejs -->
 
 [![Canva](https://img.shields.io/badge/Canva-0bb0c9?style=for-the-badge)](https://www.canva.com/)
 [![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge)](https://claude.com/)
