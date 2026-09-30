@@ -9,12 +9,9 @@ Currently open to software engineering roles and open-source contributions.
 {
   "degree": "B.Sc. in Software Engineering",
   "location": "Dhaka, Bangladesh",
+  "handsOn": ["C", "C++", "Java", "JavaScript", "Python", "PHP", "MySQL"],
   "focus": ["Full-Stack Development", "System Architecture", "Cloud"],
   "currently_exploring": ["Scalable Backend Systems", "Open Source"],
-  "connect": {
-    "linkedin": "sohirofficial",
-    "facebook": "sohiruddinnaim17"
-  }
 }
 ```
 
