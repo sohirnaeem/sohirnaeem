@@ -14,5 +14,5 @@
   }
 }
 ```
-## Focused on building performant web applications, reliable backend systems, and clean user interfaces.
-# Currently open to software engineering roles and open-source contributions.
+### Focused on building performant web applications, reliable backend systems, and clean user interfaces.
+Currently open to software engineering roles and open-source contributions.
